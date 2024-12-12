@@ -1,4 +1,4 @@
-Libft es el primer proyecto obligatorio del Cursus de 42. Este proyecto supone una introducción al desarrollo de bibliotecas en C y el resultado es una colección de funciones reutilizables que amplían las capacidades de la biblioteca estándar de C (libc).
+Libft es el primer proyecto del Cursus de 42. Este proyecto supone una introducción al desarrollo de bibliotecas en C y el resultado es una colección de funciones reutilizables que amplían las capacidades de la biblioteca estándar de C (libc).
 
 El desafío consiste en implementar funciones que imitan algunas ya disponibles en la libc, así como desarrollar nuevas funciones útiles que servirán como base en futuros proyectos de 42.
 
